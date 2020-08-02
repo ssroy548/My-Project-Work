@@ -1,2 +1,2 @@
 # My-Project-Work
-Here all my project using c and Java language.
+This is a simple project based on cgpa calculation using c language.

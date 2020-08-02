@@ -22,7 +22,7 @@ int main()
     scanf("%d",&n);
     printf("NUMBER OF STUDENT\t\t %d\n\nNow Give Input According To Roll No.\n\n",n);
     printf("If any seat is empty then enter 0 for that student\nNOTE:\t use space to take input and use enter to get output and take new input.\n\n");
-    printf("Plz Enter names of student\n\n");
+    printf("Plz Enter name of student\n\n");
     for(i=0; i<n; i++)
     {
         scanf(" %[^\n]",name[i]);
